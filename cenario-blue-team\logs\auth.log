@@ -1,0 +1,38 @@
+Oct 21 22:04:12 web01 sshd[20343]: Failed password for deploy from 10.0.0.5 port 51022 ssh2
+Oct 21 22:04:20 web01 sshd[24779]: Accepted password for deploy from 10.0.0.5 port 51022 ssh2
+Oct 21 22:04:20 web01 sshd[22162]: pam_unix(sshd:session): session opened for user deploy(uid=1001) by (uid=0)
+Oct 21 22:31:47 web01 sshd[28862]: pam_unix(sshd:session): session closed for user deploy
+Oct 21 23:10:02 web01 sshd[20039]: Failed password for root from 192.0.2.77 port 56877 ssh2
+Oct 21 23:10:49 web01 sshd[26519]: Failed password for root from 192.0.2.77 port 53921 ssh2
+Oct 21 23:11:33 web01 sshd[28983]: Failed password for root from 192.0.2.77 port 51642 ssh2
+Oct 21 23:12:14 web01 sshd[23902]: Failed password for root from 192.0.2.77 port 51609 ssh2
+Oct 21 23:12:56 web01 sshd[29684]: Failed password for root from 192.0.2.77 port 55385 ssh2
+Oct 21 23:13:40 web01 sshd[22526]: Failed password for root from 192.0.2.77 port 51118 ssh2
+Oct 21 23:14:29 web01 sshd[21835]: Failed password for root from 192.0.2.77 port 51128 ssh2
+Oct 21 23:15:10 web01 sshd[28393]: Failed password for root from 192.0.2.77 port 58704 ssh2
+Oct 21 23:15:53 web01 sshd[24794]: Failed password for root from 192.0.2.77 port 48374 ssh2
+Oct 21 23:16:40 web01 sshd[24200]: Failed password for root from 192.0.2.77 port 57731 ssh2
+Oct 21 23:17:11 web01 sshd[27471]: Failed password for root from 192.0.2.77 port 48595 ssh2
+Oct 21 23:17:57 web01 sshd[20989]: Failed password for root from 192.0.2.77 port 47005 ssh2
+Oct 21 23:18:26 web01 sshd[28201]: Invalid user admin from 192.0.2.77 port 48839
+Oct 21 23:18:27 web01 sshd[28752]: Failed password for invalid user admin from 192.0.2.77 port 48839 ssh2
+Oct 21 23:19:02 web01 sshd[20023]: Invalid user test from 192.0.2.77 port 46250
+Oct 21 23:19:03 web01 sshd[24628]: Failed password for invalid user test from 192.0.2.77 port 46250 ssh2
+Oct 21 23:19:27 web01 sshd[21274]: Invalid user oracle from 192.0.2.77 port 51498
+Oct 21 23:19:28 web01 sshd[29605]: Failed password for invalid user oracle from 192.0.2.77 port 51498 ssh2
+Oct 21 23:20:06 web01 sshd[28174]: Invalid user ubuntu from 192.0.2.77 port 47239
+Oct 21 23:20:07 web01 sshd[23895]: Failed password for invalid user ubuntu from 192.0.2.77 port 47239 ssh2
+Oct 21 23:20:55 web01 sshd[22293]: Invalid user postgres from 192.0.2.77 port 45094
+Oct 21 23:20:56 web01 sshd[27418]: Failed password for invalid user postgres from 192.0.2.77 port 45094 ssh2
+Oct 21 23:21:25 web01 sshd[25600]: Invalid user admin from 192.0.2.77 port 59168
+Oct 21 23:21:26 web01 sshd[26027]: Failed password for invalid user admin from 192.0.2.77 port 59168 ssh2
+Oct 21 23:22:04 web01 sshd[29891]: Invalid user user from 192.0.2.77 port 48184
+Oct 21 23:22:05 web01 sshd[23152]: Failed password for invalid user user from 192.0.2.77 port 48184 ssh2
+Oct 21 23:22:49 web01 sshd[27171]: Invalid user guest from 192.0.2.77 port 50610
+Oct 21 23:22:50 web01 sshd[25899]: Failed password for invalid user guest from 192.0.2.77 port 50610 ssh2
+Oct 21 23:23:11 web01 sshd[26927]: Failed password for root from 192.0.2.77 port 55241 ssh2
+Oct 21 23:23:46 web01 sshd[27496]: Failed password for root from 192.0.2.77 port 58322 ssh2
+Oct 21 23:24:29 web01 sshd[25025]: Disconnecting authenticating user root 192.0.2.77 port 58812: Too many authentication failures [preauth]
+Oct 22 02:38:05 web01 sshd[21489]: Accepted publickey for deploy from 10.0.0.5 port 52210 ssh2: RSA SHA256:Fict1c10ExemploChaveDeploy
+Oct 22 02:38:05 web01 sshd[21397]: pam_unix(sshd:session): session opened for user deploy(uid=1001) by (uid=0)
+Oct 22 02:44:51 web01 sshd[23217]: pam_unix(sshd:session): session closed for user deploy

@@ -1,0 +1,41 @@
+{"ts": "2026-10-22T01:30:12Z", "evento": "login_ok", "usuario": "maria.souza", "ip": "192.0.2.30"}
+{"ts": "2026-10-22T01:41:52Z", "evento": "logout", "usuario": "maria.souza", "ip": "192.0.2.30"}
+{"ts": "2026-10-22T02:00:00Z", "evento": "tarefa_agendada", "tarefa": "backup_banco", "resultado": "ok", "tamanho_mb": 412}
+{"ts": "2026-10-22T05:15:00Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:04Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:10Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:14Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:19Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:27Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:34Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:39Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:44Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:50Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:15:56Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:01Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:07Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:13Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:20Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:28Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:33Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:40Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:44Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:50Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:16:59Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:05Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:10Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:15Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:22Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:28Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:32Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:37Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:46Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:55Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:17:59Z", "evento": "login_falha", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:18:07Z", "evento": "login_ok", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:19:10Z", "evento": "configuracao_alterada", "usuario": "admin", "ip": "203.0.113.88", "chave": "alertas_email_seguranca", "de": true, "para": false}
+{"ts": "2026-10-22T05:19:48Z", "evento": "usuario_criado", "usuario": "admin", "ip": "203.0.113.88", "novo_usuario": "suporte.ti", "perfil": "administrador"}
+{"ts": "2026-10-22T05:21:01Z", "evento": "exportacao", "usuario": "admin", "ip": "203.0.113.88", "recurso": "clientes", "registros": 18432, "campos": ["nome", "email", "telefone", "endereco", "cpf", "data_nascimento"]}
+{"ts": "2026-10-22T05:21:59Z", "evento": "logout", "usuario": "admin", "ip": "203.0.113.88"}
+{"ts": "2026-10-22T05:33:12Z", "evento": "login_ok", "usuario": "suporte.ti", "ip": "203.0.113.91"}
+{"ts": "2026-10-22T05:34:40Z", "evento": "logout", "usuario": "suporte.ti", "ip": "203.0.113.91"}
